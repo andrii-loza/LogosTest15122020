@@ -1,0 +1,32 @@
+* {
+    background-color: burlywood;
+}
+
+h1 {
+    margin-left: 65px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.team {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+
+img {
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.member {
+    width: 17%;
+
+}
+
+.position {
+    font-size: 24px;
+    color: darkred;
+}
