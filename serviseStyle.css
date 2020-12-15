@@ -1,0 +1,42 @@
+.servise {
+   margin: 40px 5%;
+}
+.servise__title {
+   text-align: center;
+   color: darkblue;
+   font-size: 40px;
+ }
+ .servise__descr {
+   text-align: center;
+   font-size: 25px;
+   color: darkblue;
+   margin-bottom: 50px;
+ }
+ .servise__block {
+   display: flex;
+   flex-wrap: wrap;
+ }
+ .service__box {
+   align-items: center;
+   flex-basis: 26%;
+   text-align: center;
+   margin-bottom: 40px;
+   padding: 0 30px;
+ }
+ .servise__btn {
+    border: 2px solid darkblue;
+    padding: 8px 15px;
+    display: block;
+    margin: 0 auto;
+    color: darkblue;
+    border-radius: 5px; 
+ }
+ .servise__btn:hover {
+    color: white;
+    background-color: darkblue;
+    transition: 1s;
+ }
+ .servise__img {
+    width: 70px;
+    border-radius: 7px;
+ }
